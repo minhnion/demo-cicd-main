@@ -1,4 +1,4 @@
-name: learn-github-Actions
+name: learn-github-minh
 run-name: ${{github.actor}} is learning Github Actions
 on: [push]
 jobs:
