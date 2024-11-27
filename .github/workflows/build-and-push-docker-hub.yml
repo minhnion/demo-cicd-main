@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: minhnion/ci-cd:staging
+          tags: minhnion/ci-cd:staging2
 
    
   pull-and-up:
